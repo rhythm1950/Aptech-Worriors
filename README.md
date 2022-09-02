@@ -25,5 +25,5 @@ This is a website of a university. I have developed it using HTML, CSS, Bootstra
 
 
 ### Website Preview:
-<img src="./assets/img/Crimpson-University.png" alt="Crimpson University">
+<img src="./images/Crimpson-University.png" alt="Crimpson University">
 
