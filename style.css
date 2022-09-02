@@ -503,8 +503,9 @@ nav .fa {
 /* Home page responsive style */
 @media (max-width: 768px) {
   .hero-section-text h1 {
-    font-size: 30px;
+    font-size: 20px !important;
     padding-top: 2%;
+    font-weight: bold;
   }
 
   .hero-section-text p {
@@ -512,6 +513,7 @@ nav .fa {
     line-height: 27px;
     color: white;
     text-align: justify;
+    font-size: 16px;
   }
 
   .header {
